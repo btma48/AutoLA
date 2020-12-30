@@ -1,5 +1,5 @@
 # AutoLA
-Code of our Neurips2020 paper "Auto Learning Attention"
+Code of "Auto Learning Attention"
 
 # Attention Searching code of the AutoLA
 
